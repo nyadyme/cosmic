@@ -1,0 +1,8 @@
+# Core dependencies for the experiments and figure generation
+numpy
+scipy
+matplotlib
+schemdraw          # only needed for the circuit schematics (src/make_circuit.py)
+
+# GPU optional: used automatically if installed, otherwise falls back to NumPy
+# cupy-cuda12x
