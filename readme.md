@@ -12,9 +12,6 @@
 > it makes no claim to be academic, nor does it come close to being so.
 > It is created purely out of interest.*
 
-> **⚠️ AI-assisted work.** Concept, code, experiments, analysis and this report were
-> produced with AI assistance (Anthropic Claude) under human direction. Results are
-> exploratory software simulations — not peer-reviewed; reproduce independently before citing.
 
 ---
 
